@@ -8,5 +8,5 @@ const showFriend = (names) => {
   }
   return friendEven;
 };
-const friends = ["bari", "mariyo", "mokbulo", "shikha"];
+const friends = ["bari", "mario", "mokbulo", "shikha"];
 console.log(showFriend(friends));
